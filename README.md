@@ -1,2 +1,2 @@
 # 20Time-ICS4U
-ICS4U starter page
+Repo for work related to my 20-time project
